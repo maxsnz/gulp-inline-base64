@@ -2,6 +2,7 @@ GULP inline-base64
 ==================
 
 This helper will inject images into your css files.
+(It is fork from https://github.com/G33kLabs/gulp-inline-base64 for compass-style base64 injecting)
 
 Install it
 ----------
