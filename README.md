@@ -3,15 +3,11 @@ GULP inline-base64
 
 This helper will inject images into your css files.
 
-```
-background-image: inline_image('images/base64/logo-bottom.png');
-```
-
 Install it
 ----------
 
 ```
-npm install --save-dev gulp-inline-base64
+npm install --save-dev https://github.com/maxsnz/gulp-inline-base64
 ```
 
 Use it
